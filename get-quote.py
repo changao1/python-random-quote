@@ -7,5 +7,5 @@ def most():
 
   #print(quotes)
 
-if __name__== "__main__":
+if __name__== "__min__":
   most()
