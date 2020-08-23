@@ -11,4 +11,6 @@ Non-blocking is better than blocking
 Favor focus over features
 Avoid administrative distraction
 Design for failure
+last = 13
+  rnd = random.randint(0, last)
 Keep it logically awesome
