@@ -1,6 +1,5 @@
 import random
-    f = open("quotes.txt")
-    quotes = f.readlines()
-    f.close()
-
-    print(quotes[13])
+f = open("quotes.txt")
+quotes = f.readlines()
+f.close()
+print(quotes[13])
